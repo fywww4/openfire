@@ -6,7 +6,9 @@ using UnityEngine;
 public class Rock_move : MonoBehaviour
 {
     public float speed = 2.5f;
-   
+    public GameObject bombrock;
+    public GameObject bombplayer;
+
     // Update is called once per frame
     void Update()
     {
