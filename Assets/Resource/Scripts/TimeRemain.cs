@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class TimeRemain : MonoBehaviour
 {
@@ -17,7 +19,10 @@ public class TimeRemain : MonoBehaviour
             leftTime--;
             myTime = 0;
         }
+        if(leftTime == 0)
+            SceneManager.LoadScene("Win");
     }
+    
 
     void OnGUI()
     {

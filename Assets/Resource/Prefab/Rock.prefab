@@ -100,8 +100,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2.5
-  bombrock: {fileID: 17186155228962087, guid: a94e7c0763e5c2e4e995146ef51b6ec7, type: 3}
-  bombplayer: {fileID: 17186155228962087, guid: a94e7c0763e5c2e4e995146ef51b6ec7, type: 3}
+  bombrock: {fileID: 3545183306612391687, guid: a94e7c0763e5c2e4e995146ef51b6ec7, type: 3}
+  bombplayer: {fileID: 7799409402480834455, guid: 58a45a445f2624b448d55bbce5e1ae72, type: 3}
 --- !u!65 &484538041913145740
 BoxCollider:
   m_ObjectHideFlags: 0

@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Rock_move : MonoBehaviour
 {
@@ -37,6 +38,8 @@ public class Rock_move : MonoBehaviour
             Instantiate(bombplayer, other.transform.position, other.transform.rotation);
             transform.position = new Vector3(Random.Range(-2.8f, 2.8f), 6f, -0.5f);
             life--;
+            if (life == 0)
+                SceneManager.LoadScene("Lose");
         }
     } 
     void OnGUI()
