@@ -11,7 +11,7 @@ public class BG_move : MonoBehaviour
     void Update()
     {
         transform.Translate(0, -speed * Time.deltaTime, 0);
-        if (transform.position.y < -10)
-            transform.position = new Vector3(0, 10, 0);
+        if (transform.position.x < 5)
+            transform.position = new Vector3(10, 0, 0);
     }
 }
