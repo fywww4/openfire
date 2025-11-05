@@ -522,6 +522,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: "\u98DB\u6A5F"
       objectReference: {fileID: 0}
+    - target: {fileID: 6992070365187467441, guid: fa4ec0a19e0babd42a2bf14c561c882c, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
