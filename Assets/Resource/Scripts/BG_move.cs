@@ -10,8 +10,8 @@ public class BG_move : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(0, -speed * Time.deltaTime, 0);
-        if (transform.position.x < 5)
-            transform.position = new Vector3(10, 0, 0);
+        transform.Translate(speed * Time.deltaTime, 0, 0);
+        if (transform.position.x > 13)
+            transform.position = new Vector3(-17, 0, 0);
     }
 }
