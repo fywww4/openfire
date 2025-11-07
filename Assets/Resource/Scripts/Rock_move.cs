@@ -28,6 +28,7 @@ public class Rock_move : MonoBehaviour
         if (other.tag == "Finish")
         {
             Instantiate(bombrock, transform.position, transform.rotation);
+            Debug.Log("Rock explosion triggered");
             transform.position = new Vector3(Random.Range(-2.8f, 2.8f), 6f, -0.5f);
             speed = Random.Range(2f, 4f);
             Destroy(other.gameObject);
@@ -36,6 +37,7 @@ public class Rock_move : MonoBehaviour
         if(other.tag == "Player")
         {
             Instantiate(bombplayer, other.transform.position, other.transform.rotation);
+            Debug.Log("Rock explosion triggered");
             transform.position = new Vector3(Random.Range(-2.8f, 2.8f), 6f, -0.5f);
             life--;
             if (life == 0)
