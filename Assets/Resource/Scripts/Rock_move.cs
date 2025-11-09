@@ -22,7 +22,8 @@ public class Rock_move : MonoBehaviour
     public GameObject bombplayer;
 
     [Header("Game Info")]
-    public static int life = 3;
+    public static int maxLife = 3;      // <-- 【新增】最大生命值
+    public static int life = 3;         // (這是你原本的目前生命值)
     public static int score = 0;
 
     private float speed;

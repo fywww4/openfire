@@ -1,7 +1,9 @@
+using Microlight.MicroBar;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement; // <-- 確保你有這行，用於讀取 Lose 場景
+using UnityEngine.SceneManagement; 
+using Microlight.MicroBar;
 
 public class Player_control : MonoBehaviour
 {
@@ -18,12 +20,16 @@ public class Player_control : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     private Collider playerCollider;
 
+    [Header("UI")]
+    public MicroBar playerHealthBar;
+
 
     void Start()
     {
         // 取得需要的元件
         spriteRenderer = GetComponent<SpriteRenderer>();
         playerCollider = GetComponent<Collider>();
+        UpdateHealthBar();
         // 註：如果你的 2D 遊戲用的是 Collider2D，上面那行要改成：
         // playerCollider = GetComponent<Collider2D>();
     }
@@ -75,6 +81,8 @@ public class Player_control : MonoBehaviour
         // 2. 減少生命值 (我們把這邏輯從 Rock_move 搬過來了)
         Rock_move.life--;
         Debug.Log("玩家受傷! 剩餘生命: " + Rock_move.life);
+
+        UpdateHealthBar();
 
         // 3. 檢查是否死亡
         if (Rock_move.life <= 0)
@@ -129,5 +137,21 @@ public class Player_control : MonoBehaviour
             // 再等待 0.1 秒
             yield return new WaitForSeconds(flashInterval);
         }
+    }
+    void UpdateHealthBar()
+    {
+        if (playerHealthBar == null)
+        {
+            Debug.LogError("血條 (playerHealthBar) 沒有被指定!");
+            return;
+        }
+
+        // 計算目前生命值的百分比 (例如 2 / 3 = 0.66)
+        // 我們需要用 (float) 來轉換型態，避免整數除法 (2 / 3 = 0)
+        float percent = (float)Rock_move.life / (float)Rock_move.maxLife;
+
+        // 呼叫 MicroBar 的功能來更新血條
+        // .UpdateBar(percent) 是 MicroBar 最核心的函式
+        playerHealthBar.UpdateBar(percent);
     }
 }
