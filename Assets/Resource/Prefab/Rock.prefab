@@ -99,9 +99,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b5800db0ca54274a9e93213260fa4d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2.5
-  bombrock: {fileID: 3545183306612391687, guid: a94e7c0763e5c2e4e995146ef51b6ec7, type: 3}
-  bombplayer: {fileID: 7799409402480834455, guid: 58a45a445f2624b448d55bbce5e1ae72, type: 3}
+  minX: -2.8
+  maxX: 2.8
+  resetY: 6
+  destroyX: -11
+  minSpeed: 2
+  maxSpeed: 4
+  respawnDelay: 0.5
+  bombrock: {fileID: 8790723436054683846, guid: 200a17f8acf49b2468fa2b744d653d3f, type: 3}
+  bombplayer: {fileID: 601032369443951384, guid: c9289ffc86c1cd3488b4c4374362046b, type: 3}
 --- !u!65 &484538041913145740
 BoxCollider:
   m_ObjectHideFlags: 0

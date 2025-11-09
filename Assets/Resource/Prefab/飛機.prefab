@@ -10,10 +10,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1029967528720612562}
   - component: {fileID: 6992070365187467441}
-  - component: {fileID: 5684948716420610334}
   - component: {fileID: 6294220652338423352}
   - component: {fileID: 6055946641218691783}
   - component: {fileID: -428811114747121803}
+  - component: {fileID: 3649073768410630690}
   m_Layer: 0
   m_Name: "\u98DB\u6A5F"
   m_TagString: Player
@@ -88,27 +88,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!95 &5684948716420610334
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3106842672062346941}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: bc96244e85f929040841825022477236, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!54 &6294220652338423352
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -171,3 +150,28 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 2
   projectile: {fileID: 3766708880242731250, guid: 557e8fae067058e4b8fa80fa96d402f7, type: 3}
+  _animator: {fileID: 3649073768410630690}
+  normalSprite: {fileID: -970560988, guid: db80969a1fd4ef14f9e86a70165332ef, type: 3}
+  invincibleSprite: {fileID: 2016944033, guid: db80969a1fd4ef14f9e86a70165332ef, type: 3}
+  invincibilityDuration: 2
+--- !u!95 &3649073768410630690
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3106842672062346941}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5c1710c25c796a945a1a0663b2e13241, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

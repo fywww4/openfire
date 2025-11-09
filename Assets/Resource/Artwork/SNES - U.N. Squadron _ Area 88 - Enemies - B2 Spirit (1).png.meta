@@ -1,0 +1,2309 @@
+fileFormatVersion: 2
+guid: db80969a1fd4ef14f9e86a70165332ef
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 482
+        width: 139
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d398214928c094b942aea1634ccb4c
+      internalID: -970560988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 482
+        width: 139
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7837537f8ced8ee44b6fc9ae4e5016c7
+      internalID: 1104779011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 485
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9460f6248d85d744c95bad0b9adca54b
+      internalID: -1725104584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 486
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92357258eaeb91f4096c6d4849bf09e9
+      internalID: 1152256055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 485
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3326dd6fa9092954bb62efa1fe85b35b
+      internalID: -1150117883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 399
+        width: 139
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3390391d63b1e4d41aea815a20968f4e
+      internalID: -1878489058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 399
+        width: 139
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7e5e348d877a84687fa737b7e8bf8a
+      internalID: -182639760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_7
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 465
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8229fb33d955a684c9066be83adb883b
+      internalID: -352532726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 468
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01df005e579287240abbb51884491df7
+      internalID: -815311739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 467
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1788a3b56a73754594b0fb02a7d9b35
+      internalID: 1475469000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 466
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0300fdc9614799349ad00f06e034bc45
+      internalID: -1490434731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 448
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116b059e74c7baf4592fa3b6493dbce2
+      internalID: -877184753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_12
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 451
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4832ffdcd7f864b43b8da173c98d94ff
+      internalID: 1681887442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 448
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e4d136153098b4692c30b6d9d8bf10
+      internalID: -257783593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 448
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f0a6d2c6d42d94f9d7b9a0c1f57c12
+      internalID: 641283625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_15
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 450
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d2670d777c4f040a68d67610c1012e
+      internalID: 1332430976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_16
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 448
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4680c6b64a403034793d961e68f95bc5
+      internalID: -169940931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 437
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d9bfb57cf46ae4ab1cc91190b4fada
+      internalID: 1432413649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_18
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 437
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4b5a93d284eb54a86d8657ad28bf02
+      internalID: -539510825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 437
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421d50e58edc6b7498dfefc080107989
+      internalID: -1622073271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_20
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 437
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f717784b61bfc6b46a1468064449ee21
+      internalID: 1467973919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_21
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 425
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef06bbd2a4043b54ba826b10854a9406
+      internalID: -593868045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_22
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 420
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0860d2cef679b21449a00b6112b33e30
+      internalID: 2001434474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_23
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 425
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c3902592b05fe4ba61194ddfc48f7d
+      internalID: 1457881987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_24
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 425
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03d2dc3c6142ed4fb03beffeb60834a
+      internalID: 176487014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_25
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 419
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d74f967bee0774386fce1271996e24
+      internalID: -1998399389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_26
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 425
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7d99dc73baf2f41979521974a3a711
+      internalID: -2054063486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_27
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 401
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768cfe6be94f3dd409f2bd5aee958ee5
+      internalID: 681587027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_28
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 401
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bdf1fed9a97af4fa114d6891bea4b3
+      internalID: -333817565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_29
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 401
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e3de0c643da694986f6e7d9aae5f15
+      internalID: 27588611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 316
+        width: 139
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c05ff652159544aa97242f730b749c
+      internalID: 492368256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_31
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 316
+        width: 139
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25004d7b98f7cf149ad74fcd77149154
+      internalID: -1273104671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_32
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 378
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cd3cf2ab1478341a95a2b411fb53b4
+      internalID: 1895498804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_33
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 378
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce095aa6c312c34a9099e5d1cf255dc
+      internalID: 1813615325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_34
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 378
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468e933086098f64e8da46b4357a6dc3
+      internalID: -586696311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_35
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 378
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f1f05aa3512d94fa9914bc2cf0f039
+      internalID: -1996007160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_36
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 378
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c44ea9f114f1a8408e4412fc77f63b9
+      internalID: 1718922424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 348
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2607c73eb02055448ad9485b3d8f3d87
+      internalID: -462915774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_38
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 348
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e584506a83ca1174d877980037108379
+      internalID: 1925525404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_39
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 347
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b136a9034fd88244bb90103147f8fa2c
+      internalID: 1813399152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_40
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 346
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175150eef90305d48b85098548e0ded4
+      internalID: -965956066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_41
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 346
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e28f02d7b596f4f8527caad28d9216
+      internalID: -1225225209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_42
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 346
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42fe3ce9130d9742b595639951019e3
+      internalID: 290647107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_43
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 367
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca254aa921ac1f64db95a4fae8a8ddf5
+      internalID: -630665887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_44
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 347
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5695322602b16d64bb385271b22fcf31
+      internalID: -1000862443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_45
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 347
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0772f6824c7054e9a4073aaee1f2ce
+      internalID: 1478293624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_46
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 322
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d8da878399a3548b8b11d9e49c37f8
+      internalID: 200463445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_47
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 321
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b388d81aedda8b489345989710d7ed6
+      internalID: 1971446909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_48
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 321
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507e56e35699e9942aa6f64860180ce1
+      internalID: -348255880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_49
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 324
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b78a79fe91e7045afeb48b7334b616
+      internalID: 2108838626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_50
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 319
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1762a7dc4d9c3d1428184278336792db
+      internalID: -2008547496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 233
+        width: 139
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89842152095c351499e279a128c258f5
+      internalID: 790152799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_52
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 233
+        width: 139
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188bc0d5556a82648b59c448aec48367
+      internalID: -753542102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 233
+        width: 140
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aeda6080b04e1f4693bedb5ea5ad103
+      internalID: 2016944033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_54
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 215
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd937dbc5854eff47b7b5d541cf644d6
+      internalID: -1745072416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 215
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c06d9b1284e7f4ca39b84aba3e26c3
+      internalID: -1630281126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_56
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 212
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a2dcbf25e85d9498942ad3fc5e3836
+      internalID: -3615775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_57
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 212
+        width: 58
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3524a2e15a4df4bb5d5738fe255811
+      internalID: 50367367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_58
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 215
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf0e181ca8053f4d8218acb9accbae9
+      internalID: -542303553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_59
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 212
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febb616dba9eb3348bd637b19bcc0a01
+      internalID: 1111333673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_60
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 215
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c89e3970460a7409b46cf0c3375922
+      internalID: -926237339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_61
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 215
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7824cd414ce16c24ca861df9036d059e
+      internalID: -1589955965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_62
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 215
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51321699b6716ff4284db5cafdcad204
+      internalID: -383243857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_63
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 215
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89fa72ea40b9074bbe0bd5f8aa72aa9
+      internalID: 1615441545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_64
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 215
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df0a57d303ef6543bebfc1a24b4694c
+      internalID: 1837586183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_65
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 212
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af86960259f9654182c11c455071dc1
+      internalID: -1062789857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_66
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 212
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bfb013c9856464088d61a3341045e0
+      internalID: -1667003379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_67
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 212
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2248c6f188f5c46b8632c58b30e8e6
+      internalID: 1054243830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_68
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 199
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02aac6d3c9bf4374bbe857c278e10e61
+      internalID: 1499042892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_69
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 196
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664c4f5da97b98a4cbb1aa2b51ef170d
+      internalID: -223441747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_70
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 199
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7da6757be8bfa44b0470a0ed2d4ed1
+      internalID: -1867366504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_71
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 196
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c4b7b3cf3aaf34dade7fa63c832063
+      internalID: 251631433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_72
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 199
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1f74050bacc2f4fad696be5eb9408f
+      internalID: 1748576078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_73
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 199
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9041009091c96eb4692b4be79f87897f
+      internalID: -214466405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_74
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 199
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31905784987a87147a50807b32c751e0
+      internalID: 1185836014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_75
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 199
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bdaf18707ac1f4bb6ad0477f28389a
+      internalID: 1495539831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_76
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 199
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad436724975d2e4eb57f9c51da195de
+      internalID: -950663858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_77
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 199
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a41f1f51284e5a439d67bdb54767712
+      internalID: -1275404903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_78
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 196
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feffa1074b2f5f4f9fb084d01c118b6
+      internalID: -1647600451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_79
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 199
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc0ada7bfcd3dc48a834513b6d53c55
+      internalID: -2144556553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_80
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 199
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e287a42c7e211c449debf049bb29358
+      internalID: 1246625707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_81
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 167
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8805262a9a5f25644ab5cc3e13285baa
+      internalID: 1670604004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_82
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 167
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bfe10f0bf83d34d96366f3ab21e8fa
+      internalID: 634652896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_83
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 165
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96956f371f998441ae599e9e1d48790
+      internalID: 773995243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_84
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 164
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a606ef90485a1842806982f2f089e03
+      internalID: -1154413571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_85
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 167
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d3c58ad99df114ea2dea34b69f1014
+      internalID: -1929281828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_86
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 167
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31c651249dcc334ebc993aa000702d3
+      internalID: -1786672306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_87
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 167
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43c3b93aeeeaa74b901b43ec4005bff
+      internalID: -2105647746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_88
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 164
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94910abd6c0e52946959da547c354153
+      internalID: 184850442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_89
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 167
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fa22f7b6c3f0641aef9e68a9922225
+      internalID: -996976726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_90
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 151
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8884f442e755db74b86f7673aaf81a02
+      internalID: -1384696261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_91
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 151
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e665c76487563b84f883655b0ea27f7b
+      internalID: -1027379803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_92
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 151
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3ed7d9d8ff667419bc2ff8f4d87651
+      internalID: -2134238324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 151
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd5b01832ef87b4996b2b7e8cc7577a
+      internalID: -1960911151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_94
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 151
+        width: 52
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4f101a05e64954daba99ebbe98f713
+      internalID: 130453778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_95
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 148
+        width: 76
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba07960d8c63c8d4a9c4244ac20be591
+      internalID: -1104991615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_96
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 151
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d4af1c7c6f0074d81512dfd5d410b2
+      internalID: 902417965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_97
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 151
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc39073e021b124bbcd1a971dcb9fc6
+      internalID: -506225408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_0: -970560988
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_1: 1104779011
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_10: -1490434731
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_11: -877184753
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_12: 1681887442
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_13: -257783593
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_14: 641283625
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_15: 1332430976
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_16: -169940931
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_17: 1432413649
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_18: -539510825
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_19: -1622073271
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_2: -1725104584
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_20: 1467973919
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_21: -593868045
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_22: 2001434474
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_23: 1457881987
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_24: 176487014
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_25: -1998399389
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_26: -2054063486
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_27: 681587027
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_28: -333817565
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_29: 27588611
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_3: 1152256055
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_30: 492368256
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_31: -1273104671
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_32: 1895498804
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_33: 1813615325
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_34: -586696311
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_35: -1996007160
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_36: 1718922424
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_37: -462915774
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_38: 1925525404
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_39: 1813399152
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_4: -1150117883
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_40: -965956066
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_41: -1225225209
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_42: 290647107
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_43: -630665887
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_44: -1000862443
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_45: 1478293624
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_46: 200463445
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_47: 1971446909
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_48: -348255880
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_49: 2108838626
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_5: -1878489058
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_50: -2008547496
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_51: 790152799
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_52: -753542102
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_53: 2016944033
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_54: -1745072416
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_55: -1630281126
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_56: -3615775
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_57: 50367367
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_58: -542303553
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_59: 1111333673
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_6: -182639760
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_60: -926237339
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_61: -1589955965
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_62: -383243857
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_63: 1615441545
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_64: 1837586183
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_65: -1062789857
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_66: -1667003379
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_67: 1054243830
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_68: 1499042892
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_69: -223441747
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_7: -352532726
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_70: -1867366504
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_71: 251631433
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_72: 1748576078
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_73: -214466405
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_74: 1185836014
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_75: 1495539831
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_76: -950663858
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_77: -1275404903
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_78: -1647600451
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_79: -2144556553
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_8: -815311739
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_80: 1246625707
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_81: 1670604004
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_82: 634652896
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_83: 773995243
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_84: -1154413571
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_85: -1929281828
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_86: -1786672306
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_87: -2105647746
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_88: 184850442
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_89: -996976726
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_9: 1475469000
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_90: -1384696261
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_91: -1027379803
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_92: -2134238324
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_93: -1960911151
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_94: 130453778
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_95: -1104991615
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_96: 902417965
+      SNES - U.N. Squadron _ Area 88 - Enemies - B2 Spirit (1)_97: -506225408
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

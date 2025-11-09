@@ -10,9 +10,9 @@ public class Gun : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(0, speed * Time.deltaTime, 0);
+        transform.Translate(speed * Time.deltaTime, 0, 0);
 
-        if (transform.position.y > 5.1f) 
+        if (transform.position.x > 5.1f) 
             Destroy(gameObject);
     }
 }
