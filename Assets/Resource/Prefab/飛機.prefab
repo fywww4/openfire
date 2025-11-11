@@ -149,11 +149,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
-  projectile: {fileID: 3766708880242731250, guid: 557e8fae067058e4b8fa80fa96d402f7, type: 3}
+  projectile: {fileID: 323888225929258910, guid: a00445d01135d3e43ad6f66d633dbf1b, type: 3}
   _animator: {fileID: 3649073768410630690}
-  normalSprite: {fileID: -970560988, guid: db80969a1fd4ef14f9e86a70165332ef, type: 3}
-  invincibleSprite: {fileID: 2016944033, guid: db80969a1fd4ef14f9e86a70165332ef, type: 3}
+  healthBar: {fileID: 0}
   invincibilityDuration: 2
+  flashInterval: 0.1
+  missileCooldown: 5
+  homingMissilePrefab: {fileID: 631477700560114214, guid: 80e9040b7363f1447a3209d1e8dc1261, type: 3}
+  missileCooldownText: {fileID: 0}
+  score: 0
+  bossSceneName: Boss
 --- !u!95 &3649073768410630690
 Animator:
   serializedVersion: 5

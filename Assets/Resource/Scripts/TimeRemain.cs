@@ -22,11 +22,21 @@ public class TimeRemain : MonoBehaviour
         if(leftTime == 0)
             SceneManager.LoadScene("Win");
     }
-    
+
 
     void OnGUI()
     {
-        for (int i = 0; i < leftTime.ToString().Length; i++)
-            GUI.DrawTexture(new Rect(265 + i * 32, 20, 32, 45), timeNumbers[System.Int32.Parse((leftTime.ToString())[i].ToString())]);
+        string timeString = leftTime.ToString();
+        int digitCount = timeString.Length; 
+
+        float totalWidth = digitCount * 32f;
+        float startX = (Screen.width / 2f) - (totalWidth / 2f);
+        float startY = 20f;
+
+        for (int i = 0; i < digitCount; i++)
+        {
+            int digit = System.Int32.Parse(timeString[i].ToString());
+            GUI.DrawTexture(new Rect(startX + i * 32, startY, 32, 45), timeNumbers[digit]);
+        }
     }
 }

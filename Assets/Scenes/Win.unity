@@ -228,7 +228,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18c5f6fd17720d419244ddf20037b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  winTexture: {fileID: 2800000, guid: 795aeae77c21f08489371b9d3c98f379, type: 3}
+  winTexture: {fileID: 2800000, guid: 76be688f9120cba41852d3ca27c20ddf, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

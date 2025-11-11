@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.SocialPlatforms.Impl;
 
 public class Rock_move : MonoBehaviour
 {
@@ -20,11 +21,7 @@ public class Rock_move : MonoBehaviour
     [Header("Explosion Prefabs")]
     public GameObject bombrock;
     public GameObject bombplayer;
-
-    [Header("Game Info")]
-    public static int maxLife = 3;      // <-- 【新增】最大生命值
-    public static int life = 3;         // (這是你原本的目前生命值)
-    public static int score = 0;
+    public GameObject Missilebomb;
 
     private float speed;
 
@@ -47,24 +44,36 @@ public class Rock_move : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Finish")) // 子彈打中隕石
+        if (other.CompareTag("Finish")) 
         {
             Instantiate(bombrock, transform.position, Quaternion.identity);
-            Debug.Log("隕石被子彈擊中！");
             Destroy(other.gameObject);
-            score += 10;
             StartCoroutine(RespawnAfterDelay(respawnDelay));
+            if (Score.Instance != null)
+            {
+                Score.Instance.AddScore(10);
+            }
+        }
+        else if (other.CompareTag("Missile")) 
+        {
+            Instantiate(Missilebomb, transform.position, Quaternion.identity);
+            Destroy(other.gameObject);
+            StartCoroutine(RespawnAfterDelay(respawnDelay));
+            if (Score.Instance != null)
+            {
+                Score.Instance.AddScore(10);
+            }
         }
         else if (other.CompareTag("Player")) // 隕石撞到玩家
         {
-            Debug.Log("玩家被隕石撞到！");
             Player_control player = other.GetComponent<Player_control>();
             if (player != null)
             {
                 player.TakeDamage();
             }
-            StartCoroutine(RespawnAfterDelay(respawnDelay));
         }
+
+        StartCoroutine(RespawnAfterDelay(respawnDelay));
     }
 
     // --- 【修改重生邏輯】 ---
@@ -93,9 +102,4 @@ public class Rock_move : MonoBehaviour
         GetComponent<Collider>().enabled = true;
     }
 
-    private void OnGUI()
-    {
-        GUI.Label(new Rect(130, 40, 120, 180), "Score: " + score.ToString());
-        GUI.Label(new Rect(470, 40, 60, 180), "Life: " + life.ToString());
-    }
 }

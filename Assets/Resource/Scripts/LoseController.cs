@@ -9,8 +9,7 @@ public class LoseController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Rock_move.life = 3;
-        Rock_move.score = 0;
+        Score.Instance = null;
         TimeRemain.leftTime = 100;
     }
 

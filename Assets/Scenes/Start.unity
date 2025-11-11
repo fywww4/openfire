@@ -228,7 +228,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fab78e6c3ba0ab444a42074505d6ed67, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startTexture: {fileID: 2800000, guid: db42601deb4be754b8786da84b0cd36f, type: 3}
+  startTexture: {fileID: 2800000, guid: 3599441ef60a37447bca6ff9e7c4e55c, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

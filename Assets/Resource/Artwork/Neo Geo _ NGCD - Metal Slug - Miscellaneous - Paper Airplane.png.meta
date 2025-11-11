@@ -1,0 +1,1847 @@
+fileFormatVersion: 2
+guid: 55e92891b4e5d0c4990943f976eee508
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 122
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74284fbb92593fe469249968f1f57bc6
+      internalID: 1196064883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 123
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14758e426be352f4aa6baa4300879ba6
+      internalID: 550498705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 122
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ba28a698e9a734b9d0a992ab83fd84
+      internalID: 1309871523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 121
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9442c93eaded8469cddf54717ab579
+      internalID: 888115101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 94
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7277184d3f4964944b247ae41875fefe
+      internalID: -577697235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 91
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021a66a1bb9a4694597bea39eeaf134f
+      internalID: -147594452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 91
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208279377271ae74eb0920295d43c834
+      internalID: 1209531054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 90
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5354d527737f464ab5cffe5ce9a6dd7
+      internalID: 2000488058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 57
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52457f9936289df4eac85596b46ca952
+      internalID: -1966338193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 60
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80e28ea570bdea45a5d65b6436626bd
+      internalID: -1043996284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 61
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ac3a95dc72543408b08a774ec1273f
+      internalID: -1386097782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 69
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbb0fa3477dfc94f8e3ee95d051a946
+      internalID: 1288875981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 44
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5596fba272229a41ae54124db822b2b
+      internalID: -792897808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656deeccbc0cf8a439032d6c2c282adc
+      internalID: 815484248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 42
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dc602c8002cf44ebb0f18745c240c5
+      internalID: 968751378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf956c1214a07848af3513c5f79c650
+      internalID: 2116674740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 44
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa55093bf3a1894a854191ab4a185f8
+      internalID: 1644571313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 42
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1044c99be659fbc4e8d4d32aa36df032
+      internalID: -108156081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07453bb35cc6a574c8805a9486c53e38
+      internalID: 1631660593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e119b65eae3ba41a28145b762c2300
+      internalID: 2116416739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_20
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dd34f8e73297547976e07837272c7c
+      internalID: -1344414628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814d454e892299b45b8d8c52d6458cdb
+      internalID: 1940696700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8918d0fed69f546a22c9422d04cb13
+      internalID: 1821372456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 44
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dc3ccc3e1107e48aeb98ae7ab996f7
+      internalID: -1481853969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_24
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b032dcc37d6ffb541b31dc87c92985a3
+      internalID: -392745303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383f533a80fe2304c99ecec4c0bf6efb
+      internalID: 118933503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 44
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4049eae00281774f9903e41bc28f979
+      internalID: -1360459738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9c92aefa2e875478e2d2ce6cc4b8d7
+      internalID: -1946624527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_28
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5448e029eeb258e4bbe666e1c71588c5
+      internalID: -62886844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3874fd6045b08bd49a1392d932044de9
+      internalID: 373902277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_30
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 42
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcc493c13369d3458ec25076071d606
+      internalID: 1717471664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59d74303fb657744bde24cfd82cb621
+      internalID: 507996680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 30
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd4cd1d44a220f4eb16dcacc48954b3
+      internalID: 964528334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8072cb6296bf642a3d6b9f634af44c
+      internalID: 1808751964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_34
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af444064d8179c48bbfa3fc5964413b
+      internalID: 1172824544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_35
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 32
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78a8b89db386474bb482f82eae0c05a
+      internalID: 1111090375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_36
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 32
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd618d783d87cf47beeeacd3a54ed19
+      internalID: -902886840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_37
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 30
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a587551336024ed42ba10c7104a9fc2f
+      internalID: -1367507197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_38
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 32
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa62e17b04823740b539211ced5c65d
+      internalID: -942074827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_39
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 31
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276c76fab5e2f9346bf31672cbd0bbdc
+      internalID: -421993133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_40
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485236709108efa4fa9ebb53122ae29e
+      internalID: 835539599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_41
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0d243ae74be7a478ab825f030298de
+      internalID: -2084799102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 30
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5337cda88500b41810139f54549903
+      internalID: -316298856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_43
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 32
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa12a91b33990b14196d0e165c295d22
+      internalID: -1194605112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_44
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7be434c4c80b14e80e82436f9a3e4c
+      internalID: -91491654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_45
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4e1f78402c25e428f4b09cb62a1970
+      internalID: 1721245200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e877e824310944d84bd1091b3669b0
+      internalID: 1028707017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_47
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 30
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2030998388210ff499c1c31b73666333
+      internalID: 1809383648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77269fb3617583d41b16bd3606c61c47
+      internalID: -1730294968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bff95590fc2a70428ccb81b9a8c2448
+      internalID: -487599411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_50
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdd8946d775106408ef696e874cd814
+      internalID: -474107782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9696695f41cb662458f363828ef0f209
+      internalID: 278771904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b6501568e58f547a32feea6c052b40
+      internalID: 828835926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_53
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 18
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0922a486b2ad774da6cfae936e7b141
+      internalID: -495809077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_54
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 18
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b73a83bc05604a4c86ce978e88f75cf
+      internalID: 1861565780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_55
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 18
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217f0a1940d74bd45b0cb96670b12f85
+      internalID: -1390864448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 20
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103011d552c8db049a6fb948e028101d
+      internalID: -491058397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_57
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 20
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce89577389556644c9b9b74cb48f95cd
+      internalID: -1446667613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_58
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 20
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3fe2e4ccec8294580572f68061ec61
+      internalID: 132390159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_59
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789253f6d3861bd47a3799dd20b68c7f
+      internalID: 1359488119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_60
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 20
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f88220f35d8a343996b64a87467582
+      internalID: -351450729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_61
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0e84b14a34fa84f88b58d302f2eef5
+      internalID: 401448724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_62
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3196a2345e8a981448421da19c68d03f
+      internalID: 1700530143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_63
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10addac511aa624fb06c112c1d4403d
+      internalID: -1482503090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_64
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de8d01583c81304cbccbd9f0221d2fa
+      internalID: -1329829122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_65
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2025a49d4721bf242902eb14a1083253
+      internalID: -385851602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_66
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af2fa17e24f5d4409a4a8a6242c7b00
+      internalID: -2032720430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_67
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9660b15622f77304e9d7ae3bae34d750
+      internalID: 782752251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2091b04c9ad7e99409235b9a4952f1aa
+      internalID: -1496560817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_69
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8128ce15501dc164b8cf6cb45f587e51
+      internalID: 864421407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_70
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d1ecfd304d7ae488bd4eb65e1ecebf
+      internalID: 1336051098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_71
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ff7d0de2bd9a048b34580a63e5c62f
+      internalID: 566126629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_72
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed5f7aeb7dce9b4380bd7711e57a5b3
+      internalID: 388780619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb0961f039718d4ab30b71417ee1683
+      internalID: 301049262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_74
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0e9dad49f612247a9560182ebc71cc
+      internalID: 272271586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_75
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efe56a7149ae314ba6ee2007786f797
+      internalID: -115176929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_76
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 6
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d857a3b1afd47ef40bd7ceb0e7646a27
+      internalID: -1638668379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_0: 1196064883
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_1: 550498705
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_10: -1386097782
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_11: 1288875981
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_12: -792897808
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_13: 815484248
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_14: 968751378
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_15: 2116674740
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_16: 1644571313
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_17: -108156081
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_18: 1631660593
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_19: 2116416739
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_2: 1309871523
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_20: -1344414628
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_21: 1940696700
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_22: 1821372456
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_23: -1481853969
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_24: -392745303
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_25: 118933503
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_26: -1360459738
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_27: -1946624527
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_28: -62886844
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_29: 373902277
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_3: 888115101
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_30: 1717471664
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_31: 507996680
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_32: 964528334
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_33: 1808751964
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_34: 1172824544
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_35: 1111090375
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_36: -902886840
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_37: -1367507197
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_38: -942074827
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_39: -421993133
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_4: -577697235
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_40: 835539599
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_41: -2084799102
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_42: -316298856
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_43: -1194605112
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_44: -91491654
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_45: 1721245200
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_46: 1028707017
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_47: 1809383648
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_48: -1730294968
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_49: -487599411
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_5: -147594452
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_50: -474107782
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_51: 278771904
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_52: 828835926
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_53: -495809077
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_54: 1861565780
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_55: -1390864448
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_56: -491058397
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_57: -1446667613
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_58: 132390159
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_59: 1359488119
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_6: 1209531054
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_60: -351450729
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_61: 401448724
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_62: 1700530143
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_63: -1482503090
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_64: -1329829122
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_65: -385851602
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_66: -2032720430
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_67: 782752251
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_68: -1496560817
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_69: 864421407
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_7: 2000488058
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_70: 1336051098
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_71: 566126629
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_72: 388780619
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_73: 301049262
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_74: 272271586
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_75: -115176929
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_76: -1638668379
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_8: -1966338193
+      Neo Geo _ NGCD - Metal Slug - Miscellaneous - Paper Airplane_9: -1043996284
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: -3009135932488605973}
   m_Layer: 0
   m_Name: Rock
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -76,9 +76,9 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: b99c0d445f3967c4c96242b85d584d0d, type: 3}
+  m_Sprite: {fileID: 1196064883, guid: 55e92891b4e5d0c4990943f976eee508, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.66, y: 0.7}
@@ -99,15 +99,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b5800db0ca54274a9e93213260fa4d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minX: -2.8
-  maxX: 2.8
-  resetY: 6
+  resetX: 10
+  minY: -4
+  maxY: 4
   destroyX: -11
   minSpeed: 2
   maxSpeed: 4
   respawnDelay: 0.5
   bombrock: {fileID: 8790723436054683846, guid: 200a17f8acf49b2468fa2b744d653d3f, type: 3}
   bombplayer: {fileID: 601032369443951384, guid: c9289ffc86c1cd3488b4c4374362046b, type: 3}
+  Missilebomb: {fileID: 7352295010482464826, guid: 7f1a9b7b2b6368a4bae500e8f4a35821, type: 3}
 --- !u!65 &484538041913145740
 BoxCollider:
   m_ObjectHideFlags: 0

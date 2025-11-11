@@ -228,7 +228,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d347bed8a1c8ca4b8cb7d834738c851, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  loseTexture: {fileID: 2800000, guid: 7d492293168c2f34ebb726cc24998e3b, type: 3}
+  loseTexture: {fileID: 2800000, guid: 23b00dcc48351aa4ca4d1752c8af7aef, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
